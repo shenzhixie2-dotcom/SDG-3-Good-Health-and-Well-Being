@@ -1,1 +1,19 @@
+Basic Functions
 
+1 Users can register an account correctly
+2 Users can log in and log out correctly
+3 Users must set Sex and Age (Can’t be changed once set)
+
+Feature Functions
+
+1 Users can search Medicine / Supplement from offered list ( If there is no the one they need, they can be added by user by Google or Ai search)
+2 Users can selects Medicine / Supplement they need
+3 Users can create daily Medicine / Supplement Plan (Including Name, Dosage & Administration, Time)
+4 Users can edit Medicine / Supplement Plan ( Add or Delete Medicine / Supplement), they can also add or delete a whole plan
+5 Users can check History (sorted by day , week , month and year)
+6 App can send notification to remind users to take Medicine / Supplement
+
+Other Functions
+
+1 App can offer some tips about safe usage and habits
+2 Users can export their history for personal records
