@@ -1,0 +1,21 @@
+Scope：
+The app is designed for patients, children, and elderly with mild to moderate medication or supplement needs.
+It allows users to create, view, and edit their daily Medicine / Supplement plans.
+It allows reminders and notifications for scheduled intake.
+It allows to record history of Medicine / Supplement usage for user review.
+It allows to help users maintain a healthy habit of taking Medicine / Supplement on time.
+
+Out of Scope：
+NO prescribe medication.
+NO provide professional medical advice.
+NO offer online medical consultations.
+NO store or process non-medical information.
+NO intended for commercial purposes or third-party profit.
+It cannot replace a doctor or caregiver.
+
+Constraints：
+App must run on smartphones or tablets with notification support.
+Users must register and log in to access full features.
+All reminders and records must access device’s system time.
+Data storage is limited to the user’s account.
+Users must be responsible for correct input of dosage and schedules.
