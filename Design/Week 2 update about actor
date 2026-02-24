@@ -1,0 +1,4 @@
+In the week 2 development, we add a new actor called guardian, and put the care giver under the guardian as its subclass.
+For the user side, we add underguardian and the self guardian, we put patient, elder and children into underguardian as a subclass.
+While for those people who wants to track their health directly, we use self guardian to achieve its goals
+Both underguardian and self guardian are belong to user.
