@@ -1,4 +1,11 @@
-In the week 2 development, we add a new actor called guardian, and put the care giver under the guardian as its subclass.
-For the user side, we add underguardian and the self guardian, we put patient, elder and children into underguardian as a subclass.
-While for those people who wants to track their health directly, we use self guardian to achieve its goals
-Both underguardian and self guardian are belong to user.
+Create drug user
+add patient,elder and children as drug user
+add guardian as another user
+In guardian side,add plan, history,bell,as three main functions
+in plan menu,add create a plan page
+add edit plan page
+In history menu, add export history page
+In bell menu, add set a bell page
+In drug user side, add plan and call function
+In plan side, add receive a plan from guaridan page
+In call side, add receive a notification from guardian page
