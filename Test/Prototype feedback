@@ -1,0 +1,38 @@
+I. Testing Overview
+The prototype testing phase of the product was meant to test the usability of the core functions, user interface friendliness, and the general stability of the system. The assessment was made in two general ways:
+
+Internal Functional Testing: A walk through by the development team with attention on first navigation logic.
+
+User Acceptance Testing : A questionnaire that will be sent to 7 target users to receive quantitative and qualitative responses about their practical experience with the prototype.
+
+II. Major Strengths and Positive Feedback.
+According to the 7 valid survey feedbacks, the general user acceptance of the prototype was very high, which confirmed the central value proposition of the software:
+
+Best Advantage: 57.1% of the users have chosen the Dual-role system (User/Guardian connection) as the most impressive aspect of the application, and 28.6% have preferred the clean UI and daily progress tracker.
+
+Remote Setup Value: This option of allowing Guardians to remotely setup medication plans is rated very highly with 57.1% of the respondents indicating they are of extreme value in that this option provides a solution to a significant issue in the real world.
+
+Schedule Clarity: The timeline style on the "My plans" page is very effective since 71.4% of the testers found it to be of the best quality of clarity, as they considered it to be very clear about what to carry out, and when.
+
+General Stability: All respondents  in the course of the tested user flows confirmed that they did not have any bugs or steps that confused them, and it functioned like a charm and made sense.
+
+III. Ideas to Improve.
+Overall, the feedback is good, but the testing has demonstrated that there are areas that would need to be optimized in the subsequent release:
+
+Flow: "Add Medicine" 42.9% of the users, though the process was functional, felt that it could be used to streamline it. It means that the existing steps of interaction can be rather tiresome and need to be simplified.
+
+Guardian Menu Aesthetics: In relation to the menu of the Guardian Main Menu navigation, 42.9% of the respondents stated that it was acceptable but required more graphic attractiveness. The existing interface can be considered as rather simplistic and does not have any interacting design features.
+
+IV. Action Identified
+According to internal testing logs in GitHub:
+
+Failure to Navigate to the Page The first page had been detected to have a critical blocker on it. Although the right button will take users to the login and registration page as it should, the left button does not respond to the clicking. This makes users who have chosen that particular option not get into the application.
+
+V. Actionable Next Steps
+The following action items in the next sprint should be ranked on the top of the agenda to improve the quality of M Taker:
+
+[Urgent Fix] Instantly deal with the unresponsive code logic behind the left button on the first page to allow users to be routed correctly.
+
+[UX Optimization] Re-consider the process of adding a medicine to shorten the number of clicks and inputs, and transform the experience of adding a medicine to a somewhat easy to a very intuitive one.
+
+[UI Upgrade] Re-design Guardian Main Menu to be more appealing to the eye. as requested almost by half the testers.
