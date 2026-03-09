@@ -1,10 +1,10 @@
 delete previous registration page 
 create new registration page for drug user
 create the new login page for drug user
-add a bind page for drug user to bind with guardian
+add a bind page for drug user to bind with caregiver
 add history menu in guardian page
-add call menu in guardian page
-add plan menu in guardian page
+add call menu in caregiver page
+add plan menu in caregiver page
 update the history function
 add export history page in history
 update the plan page
