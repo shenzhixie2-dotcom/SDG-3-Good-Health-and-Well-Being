@@ -1,7 +1,7 @@
 Create drug user
 add patient,elder and children as drug user
-add guardian as another user
-In guardian side,add plan, history,bell,as three main functions
+add caregiver menu
+In caregiver side,add plan, history,bell,as three main functions
 in plan menu,add create a plan page
 add edit plan page
 In history menu, add export history page
