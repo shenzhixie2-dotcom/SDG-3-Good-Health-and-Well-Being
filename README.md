@@ -7,7 +7,7 @@ Zhang Tianyu--- Planning
 Zhang YueTian---Testing
 Zhang Zhongjie & Zhu Wenbing---prototype
 ✨3.Project Description
-Our project aims at supervising specific people such us elder, children and patient, using this app to notice them take their medicine on time. And help caregivers who works outside to remind their drug users taking pills.
+Our project aims at supervising specific people such us elder, children and patient, using this app to notice them take their medicine on time. And help caregivers who works outside to remind their medicine users taking pills.
 ✨4.Overview of works
 Planning & Analysis:In the planning stage, the team selected SDG 3: Good Health and Well-being and defined the main goal of the application, which is to help users manage medication reminders. The project tasks were organized using Trello and divided into multiple sprints.And identified the main users and system functions. Use case diagrams were created to describe how users interact with the system.
 Design: In this phase, the team used Figma to create basic functions such us login, register menu, and build the mock up step by step
